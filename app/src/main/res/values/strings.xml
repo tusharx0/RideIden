@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RideIdentify</string>
+    <string name="screen_title_main">Device List</string>
+</resources>
